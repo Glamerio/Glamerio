@@ -9,7 +9,7 @@ For me, software isn't just lines of code; it's an art of problem-solving, a pla
 ### My Current Journey 🧭
 
 * **Chasing Glamerio:** My biggest excitement currently revolves around **[Glamerio Software Language](https://github.com/Glamerio/Glamerio-Language)**, my very own programming language project. It's an adventure where logic meets creativity. I'm always open to anyone willing to contribute and join the development process!
-* **Mastering Python's Regex:** I'm delving deeper into the art of text processing with Python's `re` library. Getting into the details, unraveling patterns... This process truly fascinates me.
+* 
 * **Sharing Knowledge:** I love to share my learnings and experiences through articles on [Medium](https://medium.com/@halilersoy2024). I particularly enjoy sharing my thoughts on data structures and algorithms.
 
 ---
