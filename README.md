@@ -51,6 +51,6 @@ As a software engineer, I use a variety of tools and languages to bring my proje
 
 You can check out the statistics of my growing profile, powered by my projects and contributions, right here:
 
-[![Glamerio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GlamerioE&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Glamerio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Glamerio&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Glamerio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Glamerio&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
