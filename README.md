@@ -6,24 +6,6 @@ For me, software isn't just lines of code; it's an art of problem-solving, a pla
 
 ---
 
-### My Current Journey 🧭
-
-* **Chasing Glamerio:** My biggest excitement currently revolves around **[Glamerio Software Language](https://github.com/Glamerio/Glamerio-Language)**, my very own programming language project. It's an adventure where logic meets creativity. I'm always open to anyone willing to contribute and join the development process!
-* 
-* **Sharing Knowledge:** I love to share my learnings and experiences through articles on [Medium](https://medium.com/@halilersoy2024). I particularly enjoy sharing my thoughts on data structures and algorithms.
-
----
-
-### Get in Touch 🤝
-
-If you'd like to chat about software, career development, or just connect, don't hesitate to reach out!
-
-* **Email:** **halilersoy2024@gmail.com**
-* **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halil-ersoy-2a3b372a4/)
-
-**My special interests:** I absolutely love talking about the Python ecosystem and both the aesthetic and functional aspects of web design.
-
----
 
 ### Languages and Tools I Code With 🧰
 
