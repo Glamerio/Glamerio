@@ -1,4 +1,4 @@
-## Hi there, I'm Halil. 🚀
+## Hi there, I'm Halil.
 
 ### A software engineering student from Türkiye, diving deep into the world of code at Istanbul Beykent University.
 
@@ -7,7 +7,7 @@ For me, software isn't just lines of code; it's an art of problem-solving, a pla
 ---
 
 
-### Languages and Tools I Code With 🧰
+### Languages and Tools I Code With
 
 As a software engineer, I use a variety of tools and languages to bring my projects to life. Here's a look at my most frequently used "ingredients" in the kitchen:
 
